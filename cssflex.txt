@@ -1,0 +1,70 @@
+cssflex:
+*******
+1. moving of element with respect to the main axis is called css flex.
+called as css flex.
+2. css flex is one dimensional 
+3. by default css flex is responsive
+4. to work with flex parent and child relationship is manditory.
+
+
+
+css flex properties
+*******************
+
+1.display flex : it is used to convert blockline elememts to in line elements.
+
+2. gap : itis used to maintain space b?w html eelments gap.
+3. justify-content: flex content:flex-start/flex-end/center/space-between
+
+space-around/space-evenly
+it is used to kmove the html elements is horizantal
+default content for flex-start
+
+
+4. align in items -start/flex-end/center/strech
+it is used to move the html elements verticall (cros-axis default value is strech to work with align-items height property is mandatory.
+
+
+6.order
+itis used 
+
+
+8. flex-basics
+it is used to specify width to the html elements ex: flex-basics:30
+
+9. flex-grow
+it is used to specuify grow/expand propoprtion to a particulsr element.
+ex: flex-grow
+
+10.flex-shrink it is used to specify collpase ? co,mpression proportion to a particulst items               
+ex; flex-shrink:2
+
+
+
+Spring Boot:-
+
+SB is an open source frame work which is built on top of spring frame work.
+
+with the help of spring boot we can develop production ready application with minimal configuration.
+
+MVC:-
+MVC means Model View Controller
+
+
+Annotations :- 
+
+Annotations are used to change the behaviour of core java class or a Methood .
+
+who will write annotations with the helps of "@".
+
+ECART application:-
+
+1. amazon
+2. flibkart
+
+To build ECART application we need :-
+1. AWS S3 bucket
+2. MY SQL
+3. Spring Boot
+4. ReactJS
+5. 
